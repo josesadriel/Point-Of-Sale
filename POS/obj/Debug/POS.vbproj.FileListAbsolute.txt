@@ -1,0 +1,115 @@
+C:\Users\Nodas\Documents\Joses\POS\POS\bin\Debug\POS.exe
+C:\Users\Nodas\Documents\Joses\POS\POS\bin\Debug\POS.pdb
+C:\Users\Nodas\Documents\Joses\POS\POS\bin\Debug\POS.xml
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.exe
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.xml
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.pdb
+C:\Users\Nodas\Documents\Joses\POS\POS\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Nodas\Documents\Joses\POS\POS\bin\Debug\WebCam_Capture.dll
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\Nodas\Documents\Joses\POS\POS\bin\Debug\itextsharp.dll
+C:\Users\Nodas\Documents\Joses\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.exe
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.xml
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.pdb
+C:\Users\kkglab9\Downloads\POS1\POS\POS\bin\Debug\POS.exe
+C:\Users\kkglab9\Downloads\POS1\POS\POS\bin\Debug\POS.pdb
+C:\Users\kkglab9\Downloads\POS1\POS\POS\bin\Debug\POS.xml
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\kkglab9\Downloads\POS1\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\bin\Debug\POS.exe
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.exe
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.xml
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.pdb
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\bin\Debug\POS.pdb
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\bin\Debug\POS.xml
+C:\Users\Nodas\Documents\Joses\POS1\POS\POS\obj\Debug\POS.Jumlah_Cancel.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.exe
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.xml
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.pdb
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\bin\Debug\POS.exe
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\bin\Debug\POS.pdb
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\bin\Debug\POS.xml
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Jumlah_Cancel.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\kkglab3\Downloads\POS 13062019\POS\POS\obj\Debug\POS.Preview_Pembelian.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.exe
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.xml
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.pdb
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\bin\Debug\POS.exe
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\bin\Debug\POS.pdb
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\bin\Debug\POS.xml
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Jumlah_Cancel.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Preview_Pembelian.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\kkglab4\Downloads\POS 17062019\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\bin\Debug\POS.exe
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\bin\Debug\POS.pdb
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\bin\Debug\POS.xml
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Jumlah_Cancel.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Preview_Pembelian.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.exe
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.xml
+C:\Users\Nodas\Downloads\SHAREit\RMX1851\file\POS 19062019\POS\POS\obj\Debug\POS.pdb
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\bin\Debug\POS.exe
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\bin\Debug\POS.pdb
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\bin\Debug\POS.xml
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.vbprojAssemblyReference.cache
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Add_Product.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Jumlah_Beli.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Jumlah_Cancel.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Kasir.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.List_Produk.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Preview_Pembelian.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.Scan_Barcode.resources
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.vbproj.GenerateResource.cache
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.vbproj.CopyComplete
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.exe
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.xml
+C:\Users\Joses Adriel\Downloads\Project POS Toko Kelontong - 42170233\POS\POS\obj\Debug\POS.pdb
